@@ -138,8 +138,8 @@ img {
 }
 
 :root {
-  --main-color: #7904ffda;
-  --sub-color: #001affdc;
+  --main-color: #0066ff;
+  --sub-color: #0004ff;
 }
 /* 드래그 */
 ::selection {
